@@ -63,66 +63,66 @@ The table below lists leading SaaS node providers sorted by **Company Size / Val
 
 ## ⚡ Open-Source Node Clients & Repositories
 
-> 🔓 Below is a list of top open-source blockchain node clients, consensus engines, and validator tools, sorted by **GitHub Star Count** (descending). Each star badge links directly to the stargazers page of the respective repository.
+> 🔓 Below is a list of top open-source blockchain node clients, consensus engines, and validator tools, sorted by **GitHub Stars_Count** (descending). Each Stars_Badge links directly to the stargazers page of the respective repository.
 
-*   🪙 **[Bitcoin Core](https://github.com/bitcoin/bitcoin)** [![GitHub stars](https://img.shields.io/github/stars/bitcoin/bitcoin?style=social&color=white)](https://github.com/bitcoin/bitcoin/stargazers)  
+*   🪙 **[Bitcoin Core](https://github.com/bitcoin/bitcoin)** [![GitHub_Stars](https://img.shields.io/github/stars/bitcoin/bitcoin?style=social&color=white)](https://github.com/bitcoin/bitcoin/stargazers)  
     *The reference implementation of Bitcoin.* Full node software providing complete block validation, consensus enforcement, and built-in wallet engine.
 
-*   💎 **[Geth (go-ethereum)](https://github.com/ethereum/go-ethereum)** [![GitHub stars](https://img.shields.io/github/stars/ethereum/go-ethereum?style=social&color=white)](https://github.com/ethereum/go-ethereum/stargazers)  
+*   💎 **[Geth (go-ethereum)](https://github.com/ethereum/go-ethereum)** [![GitHub_Stars](https://img.shields.io/github/stars/ethereum/go-ethereum?style=social&color=white)](https://github.com/ethereum/go-ethereum/stargazers)  
     *Official Go implementation of Ethereum.* The battle-tested execution client powering the majority of Ethereum mainnet full nodes and custom RPC clients.
 
-*   ⚡ **[Solana Validator Client](https://github.com/solana-labs/solana)** [![GitHub stars](https://img.shields.io/github/stars/solana-labs/solana?style=social&color=white)](https://github.com/solana-labs/solana/stargazers)  
+*   ⚡ **[Solana Validator Client](https://github.com/solana-labs/solana)** [![GitHub_Stars](https://img.shields.io/github/stars/solana-labs/solana?style=social&color=white)](https://github.com/solana-labs/solana/stargazers)  
     *Solana reference node implementation in Rust.* Powers high-throughput transaction processing, proof-of-history consensus, and RPC nodes on Solana.
 
-*   💧 **[Sui](https://github.com/MystenLabs/sui)** [![GitHub stars](https://img.shields.io/github/stars/MystenLabs/sui?style=social&color=white)](https://github.com/MystenLabs/sui/stargazers)  
+*   💧 **[Sui](https://github.com/MystenLabs/sui)** [![GitHub_Stars](https://img.shields.io/github/stars/MystenLabs/sui?style=social&color=white)](https://github.com/MystenLabs/sui/stargazers)  
     *Sui Layer 1 blockchain full node software.* Built in Rust with an object-centric data model, Move execution engine, and high-concurrency consensus.
 
-*   ⚛️ **[Cosmos SDK](https://github.com/cosmos/cosmos-sdk)** [![GitHub stars](https://img.shields.io/github/stars/cosmos/cosmos-sdk?style=social&color=white)](https://github.com/cosmos/cosmos-sdk/stargazers)  
+*   ⚛️ **[Cosmos SDK](https://github.com/cosmos/cosmos-sdk)** [![GitHub_Stars](https://img.shields.io/github/stars/cosmos/cosmos-sdk?style=social&color=white)](https://github.com/cosmos/cosmos-sdk/stargazers)  
     *Framework for building application-specific blockchains.* Modular Go framework used to launch full node networks across the Interchain ecosystem.
 
-*   ⚙️ **[btcd](https://github.com/btcsuite/btcd)** [![GitHub stars](https://img.shields.io/github/stars/btcsuite/btcd?style=social&color=white)](https://github.com/btcsuite/btcd/stargazers)  
+*   ⚙️ **[btcd](https://github.com/btcsuite/btcd)** [![GitHub_Stars](https://img.shields.io/github/stars/btcsuite/btcd?style=social&color=white)](https://github.com/btcsuite/btcd/stargazers)  
     *Go-based Bitcoin full node implementation.* Maintained by btcsuite, implementing full Bitcoin consensus rules without wallet overhead.
 
-*   🌐 **[Aptos Core](https://github.com/aptos-labs/aptos-core)** [![GitHub stars](https://img.shields.io/github/stars/aptos-labs/aptos-core?style=social&color=white)](https://github.com/aptos-labs/aptos-core/stargazers)  
+*   🌐 **[Aptos Core](https://github.com/aptos-labs/aptos-core)** [![GitHub_Stars](https://img.shields.io/github/stars/aptos-labs/aptos-core?style=social&color=white)](https://github.com/aptos-labs/aptos-core/stargazers)  
     *Aptos Layer 1 blockchain core repository.* Implements AptosBFT consensus, Move VM execution, and high-performance validator/full node services.
 
-*   🦀 **[Reth](https://github.com/paradigmxyz/reth)** [![GitHub stars](https://img.shields.io/github/stars/paradigmxyz/reth?style=social&color=white)](https://github.com/paradigmxyz/reth/stargazers)  
+*   🦀 **[Reth](https://github.com/paradigmxyz/reth)** [![GitHub_Stars](https://img.shields.io/github/stars/paradigmxyz/reth?style=social&color=white)](https://github.com/paradigmxyz/reth/stargazers)  
     *Modular Rust Ethereum execution layer client.* Engineered by Paradigm for ultra-high throughput, fast sync times, and modular component reuse.
 
-*   🦄 **[Prysm](https://github.com/prysmaticlabs/prysm)** [![GitHub stars](https://img.shields.io/github/stars/prysmaticlabs/prysm?style=social&color=white)](https://github.com/prysmaticlabs/prysm/stargazers)  
+*   🦄 **[Prysm](https://github.com/prysmaticlabs/prysm)** [![GitHub_Stars](https://img.shields.io/github/stars/prysmaticlabs/prysm?style=social&color=white)](https://github.com/prysmaticlabs/prysm/stargazers)  
     *Go implementation of Ethereum Proof-of-Stake.* Provides production-ready Beacon Node and Validator client functionality for Ethereum staking.
 
-*   🚀 **[Erigon](https://github.com/erigontech/erigon)** [![GitHub stars](https://img.shields.io/github/stars/erigontech/erigon?style=social&color=white)](https://github.com/erigontech/erigon/stargazers)  
+*   🚀 **[Erigon](https://github.com/erigontech/erigon)** [![GitHub_Stars](https://img.shields.io/github/stars/erigontech/erigon?style=social&color=white)](https://github.com/erigontech/erigon/stargazers)  
     *High-efficiency Ethereum execution client.* Built for speed and storage optimization, widely recognized for high-performance Ethereum archive node syncing.
 
-*   💡 **[Lighthouse](https://github.com/sigp/lighthouse)** [![GitHub stars](https://img.shields.io/github/stars/sigp/lighthouse?style=social&color=white)](https://github.com/sigp/lighthouse/stargazers)  
+*   💡 **[Lighthouse](https://github.com/sigp/lighthouse)** [![GitHub_Stars](https://img.shields.io/github/stars/sigp/lighthouse?style=social&color=white)](https://github.com/sigp/lighthouse/stargazers)  
     *Ethereum consensus client written in Rust.* Developed by Sigma Prime with heavy emphasis on speed, security, and low memory consumption.
 
-*   🔺 **[Avalanche Go](https://github.com/ava-labs/avalanchego)** [![GitHub stars](https://img.shields.io/github/stars/ava-labs/avalanchego?style=social&color=white)](https://github.com/ava-labs/avalanchego/stargazers)  
+*   🔺 **[Avalanche Go](https://github.com/ava-labs/avalanchego)** [![GitHub_Stars](https://img.shields.io/github/stars/ava-labs/avalanchego?style=social&color=white)](https://github.com/ava-labs/avalanchego/stargazers)  
     *Go implementation of Avalanche node architecture.* Reference client for running primary network validators, C-Chain execution, and custom Subnets.
 
-*   ☕ **[Besu](https://github.com/hyperledger/besu)** [![GitHub stars](https://img.shields.io/github/stars/hyperledger/besu?style=social&color=white)](https://github.com/hyperledger/besu/stargazers)  
+*   ☕ **[Besu](https://github.com/hyperledger/besu)** [![GitHub_Stars](https://img.shields.io/github/stars/hyperledger/besu?style=social&color=white)](https://github.com/hyperledger/besu/stargazers)  
     *Enterprise Java Ethereum client under Hyperledger.* Apache 2.0 licensed, supporting both public mainnet and permissioned private networks.
 
-*   🔷 **[Nethermind](https://github.com/NethermindEth/nethermind)** [![GitHub stars](https://img.shields.io/github/stars/NethermindEth/nethermind?style=social&color=white)](https://github.com/NethermindEth/nethermind/stargazers)  
+*   🔷 **[Nethermind](https://github.com/NethermindEth/nethermind)** [![GitHub_Stars](https://img.shields.io/github/stars/NethermindEth/nethermind?style=social&color=white)](https://github.com/NethermindEth/nethermind/stargazers)  
     *High-performance C# .NET Ethereum execution client.* Offers advanced enterprise features, fast sync capabilities, and active protocol updates.
 
-*   🔥 **[Firedancer](https://github.com/firedancer-io/firedancer)** [![GitHub stars](https://img.shields.io/github/stars/firedancer-io/firedancer?style=social&color=white)](https://github.com/firedancer-io/firedancer/stargazers)  
+*   🔥 **[Firedancer](https://github.com/firedancer-io/firedancer)** [![GitHub_Stars](https://img.shields.io/github/stars/firedancer-io/firedancer?style=social&color=white)](https://github.com/firedancer-io/firedancer/stargazers)  
     *C-based high-performance Solana validator client.* Developed by Jump Crypto to maximize transaction throughput and provide vital client diversity to Solana.
 
-*   🛡️ **[Teku](https://github.com/Consensys/teku)** [![GitHub stars](https://img.shields.io/github/stars/Consensys/teku?style=social&color=white)](https://github.com/Consensys/teku/stargazers)  
+*   🛡️ **[Teku](https://github.com/Consensys/teku)** [![GitHub_Stars](https://img.shields.io/github/stars/Consensys/teku?style=social&color=white)](https://github.com/Consensys/teku/stargazers)  
     *Enterprise Java Ethereum Consensus Client.* Built by Consensys for institutional stakers, providing REST APIs, multi-validator management, and metrics.
 
-*   ☄️ **[CometBFT](https://github.com/cometbft/cometbft)** [![GitHub stars](https://img.shields.io/github/stars/cometbft/cometbft?style=social&color=white)](https://github.com/cometbft/cometbft/stargazers)  
+*   ☄️ **[CometBFT](https://github.com/cometbft/cometbft)** [![GitHub_Stars](https://img.shields.io/github/stars/cometbft/cometbft?style=social&color=white)](https://github.com/cometbft/cometbft/stargazers)  
     *Byzantine Fault Tolerant state engine.* Successor to Tendermint Core, providing consensus and networking for Cosmos app-chains.
 
-*   ☁️ **[Nimbus](https://github.com/status-im/nimbus-eth2)** [![GitHub stars](https://img.shields.io/github/stars/status-im/nimbus-eth2?style=social&color=white)](https://github.com/status-im/nimbus-eth2/stargazers)  
+*   ☁️ **[Nimbus](https://github.com/status-im/nimbus-eth2)** [![GitHub_Stars](https://img.shields.io/github/stars/status-im/nimbus-eth2?style=social&color=white)](https://github.com/status-im/nimbus-eth2/stargazers)  
     *Resource-efficient Ethereum consensus client in Nim.* Tailored for lightweight infrastructure, embedded hardware, and resource-constrained environments.
 
-*   ⚡ **[Sig](https://github.com/Syndica/sig)** [![GitHub stars](https://img.shields.io/github/stars/Syndica/sig?style=social&color=white)](https://github.com/Syndica/sig/stargazers)  
+*   ⚡ **[Sig](https://github.com/Syndica/sig)** [![GitHub_Stars](https://img.shields.io/github/stars/Syndica/sig?style=social&color=white)](https://github.com/Syndica/sig/stargazers)  
     *Zig-based Solana validator client.* Maintained by Syndica, offering low-level performance and language diversity for Solana node operators.
 
-*   🛠️ **[Sedge](https://github.com/NethermindEth/sedge)** [![GitHub stars](https://img.shields.io/github/stars/NethermindEth/sedge?style=social&color=white)](https://github.com/NethermindEth/sedge/stargazers)  
+*   🛠️ **[Sedge](https://github.com/NethermindEth/sedge)** [![GitHub_Stars](https://img.shields.io/github/stars/NethermindEth/sedge?style=social&color=white)](https://github.com/NethermindEth/sedge/stargazers)  
     *Automated Ethereum validator deployment tool.* Generates custom Docker Compose configurations for execution clients, consensus clients, and MEV-Boost.
 
 ---
