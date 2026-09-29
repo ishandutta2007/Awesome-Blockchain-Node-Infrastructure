@@ -35,6 +35,8 @@ This repository tracks production-grade **SaaS platforms** and **open-source cli
 - [🛠️ Architecture & Setup Frameworks](#️-architecture--setup-frameworks)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer & Security Notice](#️-disclaimer--security-notice)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -149,6 +151,28 @@ Contributions are welcome! To contribute to this curated list:
 - This directory is a **community-curated list** provided for educational and research purposes.
 - Running production-grade node infrastructure requires operational expertise in network peering, NVMe storage maintenance, rate limiting, and security hardening.
 - Relying exclusively on third-party SaaS RPC providers introduces single-point-of-failure dependencies. Mission-critical Web3 applications should implement multi-provider fallbacks or hybrid self-hosted node backups.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring **Awesome Blockchain Node Infrastructure**! If you find this curated list valuable for your Web3 development or infrastructure operations, please consider supporting the project:
+
+*   ⭐ **Star the repo**: Click the star button at the top right to increase visibility.
+*   🍴 **Fork & Share**: Spread the word with fellow Web3 developers, DevOps engineers, and node operators.
+*   ☕ **Sponsor / Buy Me a Coffee**: Support ongoing updates and maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor Project"/>
+  </a>
+</p>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Blockchain-Node-Infrastructure&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Blockchain-Node-Infrastructure&type=date&legend=top-left)
 
 ---
 
