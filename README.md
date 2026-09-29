@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[QuickNode](https://www.quicknode.com/)**  
-
-  Blockchain infrastructure platform supporting 80+ chains with 99.99% uptime SLA. Features Streams for real-time data delivery, Webhooks, SQL Explorer, and IPFS. Holds SOC 1 Type II, SOC 2 Type II, and ISO 27001 compliance certifications .
-
-
-
-- **[Alchemy](https://www.alchemy.com/)**  
-
-  Web3 development platform providing RPC access plus enhanced APIs, Notify, and a large suite of tooling for Ethereum and multi-chain development .
-
-
-
-- **[Infura](https://www.infura.io/)**  
-
-  One of the oldest and most trusted Ethereum RPC providers, owned by Consensys and serving as MetaMask's default backend. Supports 20+ chains including Ethereum, Polygon, Optimism, Arbitrum, and Base. Migrated to credit-based pricing in 2026 .
-
-
-
-- **[Ankr](https://www.ankr.com/)**  
-
-  Blockchain infrastructure provider built around a decentralized physical infrastructure network (DePIN) with a globally distributed node fleet serving billions of requests daily. Offers free tier access .
-
-
-
-- **[Chainstack](https://chainstack.com/)**  
-
-  Multi-chain infrastructure platform supporting 70+ protocols with cost predictability and enterprise-grade deployment control. Features Hybrid Cloud for running dedicated nodes in your own AWS, GCP, or Azure environment .
-
-
-
-- **[GetBlock](https://getblock.io/)**  
-
-  Web3 infrastructure provider offering RPC access to blockchain networks via JSON-RPC and WebSocket endpoints without running your own nodes .
-
-
-
-- **[Blockdaemon](https://www.blockdaemon.com/)**  
-
-  Enterprise-grade blockchain infrastructure with node management, staking, and institutional-grade security.
-
-
-
-- **[NOWNodes](https://nownodes.io/)**  
-
-  Blockchain node provider offering shared and dedicated nodes with a focus on cost-effective RPC access .
-
-
-
-- **[Lava Network](https://www.lavanet.xyz/)**  
-
-  Decentralized RPC aggregator routing requests across a network of independent node operators through AI-driven load balancing for resilience and provider redundancy .
-
-
-
-- **[Pokt Network](https://www.pokt.network/)**  
-
-  Decentralized infrastructure network providing RPC access through a network of independent node runners, with open-source tooling for gateway operators .
+| Platform | Description | Starting Price | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[QuickNode](https://www.quicknode.com/)** | Multi-chain infrastructure supporting 80+ chains with 99.99% uptime SLA, Streams, Webhooks, SQL Explorer, and IPFS. | $49/month (Build Plan) | 10M API Credits/month (15 RPS) |
+| **[Alchemy](https://www.alchemy.com/)** | Web3 development platform providing RPC access plus enhanced APIs, Notify, and tooling for Ethereum and multi-chain development. | $49/month (Growth Plan) or $0.525 per 1M CUs | 30M Compute Units (CUs)/month (300 CUPs) |
+| **[Infura](https://www.infura.io/)** | Consensys-owned Ethereum RPC provider serving as MetaMask default backend. Supports 20+ chains. | $50/month (Developer Plan) | 3M credits/day (~90M credits/month, 1 API key) |
+| **[Ankr](https://www.ankr.com/)** | DePIN-based multi-chain infrastructure provider with a globally distributed node fleet. | $10 for 100M API credits (Pay-As-You-Go) | 200M API credits/month (30 RPS) on Freemium tier |
+| **[Chainstack](https://chainstack.com/)** | Multi-chain platform supporting 70+ protocols with cost predictability, deployment control, and Hybrid Cloud. | $49/month (Growth Plan) | 3M Request Units (RUs)/month (25 RPS, 1 node) |
+| **[GetBlock](https://getblock.io/)** | Web3 infrastructure offering RPC access via JSON-RPC and WebSocket endpoints without self-hosting. | $49/month ($39/month billed annually) | 50,000 Compute Units (CUs)/day (~1.5M CUs/month, 20 RPS) |
+| **[Blockdaemon](https://www.blockdaemon.com/)** | Enterprise-grade blockchain infrastructure with node management, staking, and institutional security. | ~$0.0000425 per CU ($42.50/1M CUs) auto-scaling overage | 3M Compute Units (CUs)/month (5 RPS, 1 Test key) |
+| **[NOWNodes](https://nownodes.io/)** | Multi-chain node provider offering shared and dedicated RPC nodes with cost-effective access. | ~€20/month (~$22/month, Pro Plan) | 100,000 requests/month (Start Plan, 5 selected nodes) |
+| **[Lava Network](https://www.lavanet.xyz/)** | Decentralized RPC aggregator routing requests across independent node operators via AI-driven load balancing. | Protocol pool funding / 50,000 LAVA validator stake | Free public RPC access via incentivized pools (dynamic QoS rate limits) |
+| **[Pokt Network](https://www.pokt.network/)** | Decentralized infrastructure network providing RPC access through independent node runners. | Staking model (~1 POKT/relay tier) / Gateway relay fees | 1M relays/day (~30M relays/month via public/gateway free tiers) |
 
 
 
