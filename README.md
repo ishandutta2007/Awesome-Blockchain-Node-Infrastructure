@@ -58,6 +58,7 @@ The table below lists leading SaaS node providers sorted by **Company Size / Val
 | 🔮 **[Pokt Network](https://www.pokt.network/)** | Decentralized infrastructure network utilizing independent node runners to service RPC relays. | **~$50M–$80M FDV** (Public POKT Protocol Token) | Staking model (~1 POKT/relay tier) / Gateway fees | 1M relays/day (~30M relays/month via public gateways) |
 | 🧱 **[GetBlock](https://getblock.io/)** | Web3 RPC node service providing shared and dedicated endpoints for 50+ blockchains via JSON-RPC & WebSockets. | **~$20M–$50M Est. Valuation** (Private / Bootstrapped) | $49/month ($39/month billed annually) | 50,000 Compute Units (CUs)/day (~1.5M CUs/month, 20 RPS) |
 | 🛰️ **[NOWNodes](https://nownodes.io/)** | Reliable node provider offering shared and dedicated RPC nodes for 120+ blockchain networks. | **~$10M–$20M Est. Valuation** (Private Node Operator) | ~€20/month (~$22/month, Pro Plan) | 100,000 requests/month (Start Plan, 5 selected nodes) |
+| 🔷 **[LYFTIUM](https://www.lyftium.com/)** | Ethereum Mainnet JSON-RPC with rpm pricing (not compute units), `X-Api-Key` header auth, and fail-closed HTTP 503 when the sync tip gate is closed. | **Independent / early-stage** (Polar-billed) | $29/month (100 rpm) · $99/month (500 rpm) · $499/month Enterprise | None (paid only) |
 
 ---
 
